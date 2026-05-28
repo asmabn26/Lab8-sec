@@ -68,11 +68,7 @@ lab8/
 └── README.md
 ```
 
-Capture de l'organisation du workspace :
 
-![Workspace](docs/images/01.png)
-
----
 
 ## 4. Préparation de l'APK
 
